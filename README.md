@@ -1,4 +1,10 @@
 ## Hi there 👋
+![tryhackme stats](https://raw.githubusercontent.com/<notaburner99>/<notaburner99>/master/assets/thm_propic.png)
+
+
+
+
+
 
 <!--
 **nsaaron/nsaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
