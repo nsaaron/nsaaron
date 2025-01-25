@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![tryhackme stats](https://raw.githubusercontent.com/notaburner99/notaburner99/master/assets/thm_propic.png)[tryhackme]
-![HTB Stats](https://app.hackthebox.com/profile/603262)[hackthebox]
+[![tryhackme stats](https://raw.githubusercontent.com/notaburner99/notaburner99/master/assets/thm_propic.png)[tryhackme]
+
 
 
 
