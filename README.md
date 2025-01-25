@@ -1,10 +1,5 @@
 ## Hi there 👋
-
-[![tryhackme stats](https://raw.githubusercontent.com/nsaaron/nsaaron/master/assets/thm_propic.png)[tryhackme]
-
-![THM](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1241551)
-
-
+[WIP Github Page](nsaaron.github.io)
 
 <!--
 **nsaaron/nsaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
