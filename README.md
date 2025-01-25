@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-![tryhackme stats](https://raw.githubusercontent.com/nsaaron/nsaaron/master/assets/thm_propic.png)
-![THM Stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1241551)
-
+![tryhackme stats](https://raw.githubusercontent.com/notaburner99/notaburner99/master/assets/thm_propic.png)[tryhackme]
+![HTB Stats](https://app.hackthebox.com/profile/603262)[hackthebox]
 
 
 
