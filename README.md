@@ -2,7 +2,7 @@
 
 [![tryhackme stats](https://raw.githubusercontent.com/nsaaron/nsaaron/master/assets/thm_propic.png)[tryhackme]
 
-
+![THM](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1241551)
 
 
 
