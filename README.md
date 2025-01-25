@@ -1,5 +1,4 @@
 ## Hi there 👋
-[WIP Github Page](nsaaron.github.io)
 
 <!--
 **nsaaron/nsaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
