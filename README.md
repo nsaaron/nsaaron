@@ -4,6 +4,7 @@
 - 🌱 I’m currently training for Cybersecurity certifications (Firewalls/Security Engineering, Incident Response)
 - 🔭 I’m currently working on Fortinet NSE4 (FCP) certification
 - 🧠 Nerd for Digital Forensics
+- ♾️ Current on a Python Learning Journey
 
 
 
